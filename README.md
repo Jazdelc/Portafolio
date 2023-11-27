@@ -1,6 +1,8 @@
 # Portafolio
 Mi portafolio
 
+Aplicación hecha con HTML, CSS y JavaScript.
+
 Esta App de Gestión de Tareas y Proyectos permite agregar tareas, seleccionarlas como hechas y eliminarlas. 
 Al agregar las tareas, éstas se van sumando a una lista de tareas pendientes.
 Estas tareas, luego de hechas, se pueden eliminar presionando el botón del tarro de basura.
